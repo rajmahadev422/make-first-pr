@@ -1,16 +1,16 @@
 [
   {
     "name": "Mahadev",
-    "github": "mahadev123",
+    "github": "mahadev422",
     "bio": "Engineering student",
     "skills": ["React", "Node", "MongoDB"],
-    "avatar": "/images/mahadev.jpg"
+    "avatar": "/images/mahadev.png"
   },
   {
     "name": "Alex",
     "github": "alexdev",
     "bio": "Frontend developer",
     "skills": ["React", "Tailwind"],
-    "avatar": "/images/alex.jpg"
+    "avatar": "/images/alex.png"
   }
 ]
