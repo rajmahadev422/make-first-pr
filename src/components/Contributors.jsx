@@ -22,7 +22,7 @@ export default function Contributors() {
             className="bg-white shadow-md rounded-xl p-6 text-center hover:shadow-xl transition"
           >
             <img
-              src={user.avatar}
+              src={"/make-first-pr"+user.avatar}
               alt={user.name}
               className="w-20 h-20 rounded-full mx-auto mb-4"
             />
