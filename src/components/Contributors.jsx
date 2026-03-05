@@ -4,7 +4,7 @@ export default function Contributors() {
   const [contributors, setContributors] = useState([]);
 
   useEffect(() => {
-    fetch("/contributors.json")
+    fetch("/make-first-pr/contributors.json")
       .then((res) => res.json())
       .then((data) => setContributors(data));
   }, []);
