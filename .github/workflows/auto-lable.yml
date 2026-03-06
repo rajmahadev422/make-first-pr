@@ -2,7 +2,7 @@ name: Auto Label PR & Issues
 
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened]
   issues:
     types: [opened]
 
