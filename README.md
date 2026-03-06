@@ -1,5 +1,5 @@
 # 🌟 First PR Leaderboard
-
+[website link](https://mahadev422.github.io/make-first-pr/)
 A beginner-friendly open-source project that helps developers make their **first contribution**.
 
 Contributors add their profile to a JSON file. When their Pull Request is merged, their profile automatically appears on the project website.
