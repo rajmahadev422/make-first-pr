@@ -1,6 +1,6 @@
-const fs = require("fs");
+import fs from "fs";
 
-const file = "public/contributors.json";
+const file = "../../public/contributors.json";
 
 function validate() {
   try {
